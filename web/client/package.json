@@ -8,7 +8,7 @@
     "add": "^2.0.6",
     "axios": "^0.18.1",
     "feedparser": "^2.2.9",
-    "highlight.js": "^9.15.8",
+    "highlight.js": "^10.4.1",
     "immutability-helper": "^2.9.1",
     "js-file-download": "^0.4.7",
     "moment": "^2.24.0",
